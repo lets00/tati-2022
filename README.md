@@ -47,4 +47,16 @@ Número de disciplinas matriculados no semestre: 14
 
 Linguagens de programação favoritas (máx 2): Javascript, Python
 
+-------------------------------------------
+
+Nome Completo: Rafael Nascimento Vilaça de Araujo
+
+Ano de ingresso: 2018
+
+No de matrícula: 20181D12GR0652
+
+Número de disciplinas matriculados no semestre: 14
+
+Linguagens de programação favoritas (máx 2): Javascript, Java
+
 ---------------------------------------------
