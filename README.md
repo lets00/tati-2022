@@ -24,6 +24,18 @@ Linguagens de programação favoritas (máx 2): Javascript, Python
 
 ---------------------------------------------
 
+Nome Completo: Alex Guimarães de Araújo
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0404
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript
+
+---------------------------------------------
+
 Nome Completo: Maycon Cordeiro Caetano
 
 Ano de ingresso: 2019
