@@ -24,6 +24,19 @@ Linguagens de programação favoritas (máx 2): Javascript, Python
 
 ---------------------------------------------
 
+Nome Completo: Emille Victória Bento Correia
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0382
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript
+
+
+---------------------------------------------
+
 Nome Completo: Maycon Cordeiro Caetano
 
 Ano de ingresso: 2019
