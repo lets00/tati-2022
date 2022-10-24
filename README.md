@@ -24,19 +24,6 @@ Linguagens de programação favoritas (máx 2): Javascript, Python
 
 ---------------------------------------------
 
-Nome Completo: Maycon Cordeiro Caetano
-
-Ano de ingresso: 2019
-
-No de matrícula: 20191D12GR0471
-
-Número de disciplinas matriculados no semestre: 13
-
-Linguagens de programação favoritas (máx 2): Javascript, php
-
----------------------------------------------
-
-
 Nome Completo: Gabriel Brasileiro Ferreira De Carvalho
 
 Ano de ingresso: 2017
@@ -46,6 +33,29 @@ No de matrícula: 20171D12GR0507
 Número de disciplinas matriculados no semestre: 14
 
 Linguagens de programação favoritas (máx 2): Javascript, Python
+
+---------------------------------------------
+
+Nome Completo: Gabriel Silva de Aquino
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0625
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript, PHP
+
+---------------------------------------------
+Nome Completo: Maycon Cordeiro Caetano
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0471
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript, php
 
 -------------------------------------------
 
