@@ -131,6 +131,17 @@ Linguagens de programação favoritas (máx 2): Java, Python
 
 ---------------------------------------------
 
+Nome Completo: Maria Gabriela Ferreira Pontes
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0455
+
+Número de disciplinas matriculados no semestre: 14
+
+Linguagens de programação favoritas (máx 2): JavaScript
+
+-------------------------------------------
 
 Nome Completo: Maria Vitória de Melo Costa
 
