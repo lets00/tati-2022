@@ -60,6 +60,18 @@ Linguagens de programação favoritas (máx 2): Javascript, Python
 
 ---------------------------------------------
 
+Nome Completo: Emerson Pereira da Silva
+
+Ano de ingresso: 2018
+
+No de matrícula: 20181D12GR0431
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript
+
+---------------------------------------------
+
 Nome Completo: Emille Victória Bento Correia
 
 Ano de ingresso: 2019
