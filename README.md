@@ -237,3 +237,17 @@ No de matrícula: 20191D12GR0587
 Número de disciplinas matriculados no semestre: 13
 
 Linguagens de programação favoritas (máx 2): Javascript, Java
+
+-------------------------------------------
+
+Nome Completo: Sofia Pereira Braga
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0609
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Python e R-project 
+
+-------------------------------------------
