@@ -24,6 +24,7 @@ Linguagens de programação favoritas (máx 2): Javascript, Python
 
 ---------------------------------------------
 
+
 Nome Completo: Emille Victória Bento Correia
 
 Ano de ingresso: 2019
@@ -36,11 +37,24 @@ Linguagens de programação favoritas (máx 2): Javascript
 
 ---------------------------------------------
 
+
 Nome Completo: Gabriel Brasileiro Ferreira De Carvalho
 
 Ano de ingresso: 2017
 
 No de matrícula: 20171D12GR0507
+
+Número de disciplinas matriculados no semestre: 14
+
+Linguagens de programação favoritas (máx 2): Javascript, Python
+
+---------------------------------------------
+
+Nome Completo: Ana Vieira 
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0366
 
 Número de disciplinas matriculados no semestre: 14
 
