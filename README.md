@@ -143,6 +143,19 @@ Linguagens de programação favoritas (máx 2): JavaScript
 
 -------------------------------------------
 
+Nome Completo: Lilian Viviane Vitor de Oliveira
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0447
+
+Número de disciplinas matriculados no semestre: 14
+
+Linguagens de programação favoritas (máx 2): Javascript, PHP
+
+
+---------------------------------------------
+
 Nome Completo: Maria Vitória de Melo Costa
 
 Ano de ingresso: 2019
