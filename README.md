@@ -84,6 +84,18 @@ Linguagens de programação favoritas (máx 2): Shell Script, Python
 
 ---------------------------------------------
 
+Nome Completo: Maria Vitória de Melo Costa
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0668
+
+Número de disciplinas matriculados no semestre: 14
+
+Linguagens de programação favoritas (máx 2): Javascript, php
+
+-------------------------------------------
+
 Nome Completo: Maycon Cordeiro Caetano
 
 Ano de ingresso: 2019
