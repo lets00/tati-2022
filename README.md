@@ -96,6 +96,19 @@ Linguagens de programação favoritas (máx 2): Shell Script, Python
 
 ---------------------------------------------
 
+Nome Completo: Kelly Rayssa dos Santoa Gomes
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0722
+
+Número de disciplinas matriculados no semestre: 14
+
+Linguagens de programação favoritas (máx 2): Java, Python
+
+---------------------------------------------
+
+
 Nome Completo: Maria Vitória de Melo Costa
 
 Ano de ingresso: 2019
