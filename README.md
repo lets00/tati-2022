@@ -12,6 +12,18 @@ Nome Completo, Ano de ingresso, No de matrícula, Número de disciplinas matricu
 
 -------------------------------------------
 
+Nome Completo: Alexya Vitória
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0340
+
+Número de disciplinas matriculados no semestre: 14
+
+Linguagens de programação favoritas (máx 2): Python
+
+-------------------------------------------
+
 Nome Completo: Exemplo
 
 Ano de ingresso: 2019
