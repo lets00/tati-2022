@@ -59,6 +59,19 @@ Número de disciplinas matriculados no semestre: 13
 Linguagens de programação favoritas (máx 2): Javascript, PHP
 
 ---------------------------------------------
+
+Nome Completo: Genilson Soares Gomes
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0633
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript, PHP
+
+---------------------------------------------
+
 Nome Completo: Maycon Cordeiro Caetano
 
 Ano de ingresso: 2019
