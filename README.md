@@ -133,6 +133,18 @@ Linguagens de programação favoritas (máx 2): Javascript, php
 
 -------------------------------------------
 
+Nome Completo: Paulo Andre wanderley de Oliveira Sobrinho 
+
+Ano de ingresso: 2018
+
+No de matrícula: 20181D12GR0644
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript, Python
+
+---------------------------------------------
+
 Nome Completo: Rafael Nascimento Vilaça de Araujo
 
 Ano de ingresso: 2018
