@@ -36,6 +36,18 @@ Linguagens de programação favoritas (máx 2): Javascript
 
 ---------------------------------------------
 
+Nome Completo: Ana Vieira
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0366
+
+Número de disciplinas matriculados no semestre: 14
+
+Linguagens de programação favoritas (máx 2): Javascript, Python
+
+---------------------------------------------
+
 Nome Completo: Emille Victória Bento Correia
 
 Ano de ingresso: 2019
