@@ -82,3 +82,13 @@ Número de disciplinas matriculados no semestre: 14
 Linguagens de programação favoritas (máx 2): Javascript, Java
 
 ---------------------------------------------
+
+Nome Completo: Emerson Pereira Da Silva
+
+Ano de ingresso: 2018
+
+No de matrícula: 20181D12GR0431
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript.
