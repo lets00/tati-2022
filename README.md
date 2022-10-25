@@ -83,6 +83,17 @@ Número de disciplinas matriculados no semestre: 14
 Linguagens de programação favoritas (máx 2): Shell Script, Python
 
 ---------------------------------------------
+Nome Completo: Lara Emanuely Leite Soares
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0420
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): JavaScript, Python
+
+---------------------------------------------
 
 Nome Completo: Maria Vitória de Melo Costa
 
