@@ -82,3 +82,13 @@ Número de disciplinas matriculados no semestre: 14
 Linguagens de programação favoritas (máx 2): Javascript, Java
 
 ---------------------------------------------
+
+Nome Completo: Ryan Víctor Ferreira Constantino da Silva
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0587
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript, Java
