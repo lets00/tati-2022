@@ -59,6 +59,18 @@ Número de disciplinas matriculados no semestre: 13
 Linguagens de programação favoritas (máx 2): Javascript, PHP
 
 ---------------------------------------------
+
+Nome Completo: Lara Emanuely Leite Soares
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0420
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript, Python
+
+---------------------------------------------
 Nome Completo: Maycon Cordeiro Caetano
 
 Ano de ingresso: 2019
