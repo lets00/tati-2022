@@ -239,6 +239,18 @@ Linguagens de programação favoritas (máx 2): Javascript, Java
 
 ---------------------------------------------
 
+Nome Completo: Rômulo Augusto Da Silva Filho
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0579
+
+Número de disciplinas matriculados no semestre: 13
+
+Linguagens de programação favoritas (máx 2): Javascript, Java
+
+---------------------------------------------
+
 Nome Completo: Ryan Víctor Ferreira Constantino da Silva
 
 Ano de ingresso: 2019
